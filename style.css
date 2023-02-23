@@ -96,7 +96,6 @@ body{
 }
 
 .nav-area ul li a{
-    text-shadow:  13px 13px 5px pink;
     text-transform: uppercase;
     font-family: sans-serif;
     font-size: 15px;
